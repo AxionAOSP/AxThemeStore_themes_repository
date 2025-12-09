@@ -1,0 +1,1556 @@
+{
+  "version": 2,
+  "lastUpdated": "2025-12-12T12:15:00Z",
+  "repository": {
+    "name": "AxThemeStore Official Repository",
+    "description": "Official theme repository for AxionAOSP Theme Store",
+    "maintainer": "AxionAOSP Team",
+    "baseUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main"
+  },
+  "components": [
+    {
+      "id": "android",
+      "name": "Android Framework",
+      "description": "Core Android framework icons and system resources",
+      "targetPackage": "android",
+      "icon": "android"
+    },
+    {
+      "id": "systemui",
+      "name": "System UI",
+      "description": "System UI icons including status bar and quick settings",
+      "targetPackage": "com.android.systemui",
+      "icon": "systemui"
+    },
+    {
+      "id": "wifi",
+      "name": "WiFi Icons",
+      "description": "WiFi signal indicator icons",
+      "targetPackage": "com.android.systemui",
+      "icon": "wifi"
+    },
+    {
+      "id": "signal",
+      "name": "Signal Icons",
+      "description": "Mobile signal indicator icons",
+      "targetPackage": "com.android.systemui",
+      "icon": "signal"
+    }
+  ],
+  "categories": [
+    {
+      "id": "icon_themes",
+      "name": "Icon Themes",
+      "description": "System icon themes for status bar, quick settings, and framework",
+      "icon": "palette"
+    },
+    {
+      "id": "ui_style",
+      "name": "UI Styles",
+      "description": "Complete UI style presets including shapes, colors, and component styles",
+      "icon": "category"
+    }
+  ],
+  "themes": [
+    {
+      "id": "acherus_icons",
+      "name": "Acherus",
+      "description": "Acherus icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.acherus",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAcherusUnified.apk",
+          "fileSize": 164311,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "aquarium_icons",
+      "name": "Aquarium",
+      "description": "Aquarium icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.aquarium",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAquariumUnified.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "aurora_icons",
+      "name": "Aurora",
+      "description": "Aurora icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.aurora",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAuroraUnified.apk",
+          "fileSize": 509057,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bars_icons",
+      "name": "Bars",
+      "description": "Bars icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.bars",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackBarsUnified.apk",
+          "fileSize": 26300,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "butterfly_icons",
+      "name": "Butterfly",
+      "description": "Butterfly icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.butterfly",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackButterflyUnified.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "circle_icons",
+      "name": "Circle",
+      "description": "Circle icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.circle",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircleUnified.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "circular_icons",
+      "name": "Circular",
+      "description": "Circular icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.circular",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircularUnified.apk",
+          "fileSize": 146392,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "daun_icons",
+      "name": "Daun",
+      "description": "Daun icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.daun",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDaunUnified.apk",
+          "fileSize": 34097,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dec_icons",
+      "name": "Dec",
+      "description": "Dec icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.dec",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDecUnified.apk",
+          "fileSize": 46385,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "deep_icons",
+      "name": "Deep",
+      "description": "Deep icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.deep",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDeepUnified.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dora_icons",
+      "name": "Dora",
+      "description": "Dora icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.dora",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDoraUnified.apk",
+          "fileSize": 55069,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "equal_icons",
+      "name": "Equal",
+      "description": "Equal icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.equal",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackEqualUnified.apk",
+          "fileSize": 34097,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "faintui_icons",
+      "name": "FaintUI",
+      "description": "FaintUI icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.faintui",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFaintUIUnified.apk",
+          "fileSize": 48194,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "fan_icons",
+      "name": "Fan",
+      "description": "Fan icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.fan",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFanUnified.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "filled_icons",
+      "name": "Filled",
+      "description": "Filled icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.filled",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFilledUnified.apk",
+          "fileSize": 125437,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "forlorn_icons",
+      "name": "Forlorn",
+      "description": "Forlorn icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.forlorn",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackForlornUnified.apk",
+          "fileSize": 40002,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "gradicon_icons",
+      "name": "Gradicon",
+      "description": "Gradicon icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.gradicon",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackGradiconUnified.apk",
+          "fileSize": 1631831,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "huawei_icons",
+      "name": "Huawei",
+      "description": "Huawei icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.huawei",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackHuaweiUnified.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "inside_icons",
+      "name": "Inside",
+      "description": "Inside icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.inside",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackInsideUnified.apk",
+          "fileSize": 26300,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "ios_icons",
+      "name": "Ios",
+      "description": "Ios icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.ios",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackIosUnified.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "kai_icons",
+      "name": "Kai",
+      "description": "Kai icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.kai",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackKaiUnified.apk",
+          "fileSize": 228401,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "lorn_icons",
+      "name": "Lorn",
+      "description": "Lorn icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.lorn",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackLornUnified.apk",
+          "fileSize": 487642,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "mini_icons",
+      "name": "Mini",
+      "description": "Mini icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.mini",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackMiniUnified.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "nostalgic_icons",
+      "name": "Nostalgic",
+      "description": "Nostalgic icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.nostalgic",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNostalgicUnified.apk",
+          "fileSize": 112340,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "nothingdot_icons",
+      "name": "NothingDot",
+      "description": "NothingDot icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.nothingdot",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNothingDotUnified.apk",
+          "fileSize": 108301,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "oos_icons",
+      "name": "OOS",
+      "description": "OOS icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.oos",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOOSUnified.apk",
+          "fileSize": 142180,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "odin_icons",
+      "name": "Odin",
+      "description": "Odin icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.odin",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOdinUnified.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "outline_icons",
+      "name": "Outline",
+      "description": "Outline icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.outline",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOutlineUnified.apk",
+          "fileSize": 426367,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "pui_icons",
+      "name": "PUI",
+      "description": "PUI icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.pui",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPUIUnified.apk",
+          "fileSize": 182948,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "pills_icons",
+      "name": "Pills",
+      "description": "Pills icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.pills",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPillsUnified.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "plumpy_icons",
+      "name": "Plumpy",
+      "description": "Plumpy icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.plumpy",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPlumpyUnified.apk",
+          "fileSize": 549511,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "rel_icons",
+      "name": "Rel",
+      "description": "Rel icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.rel",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRelUnified.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "roman_icons",
+      "name": "Roman",
+      "description": "Roman icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.roman",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRomanUnified.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "round_icons",
+      "name": "Round",
+      "description": "Round icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.round",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundUnified.apk",
+          "fileSize": 22204,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "rounded_icons",
+      "name": "Rounded",
+      "description": "Rounded icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.rounded",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundedUnified.apk",
+          "fileSize": 137725,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sam_icons",
+      "name": "Sam",
+      "description": "Sam icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.sam",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSamUnified.apk",
+          "fileSize": 201491,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "scroll_icons",
+      "name": "Scroll",
+      "description": "Scroll icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.scroll",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackScrollUnified.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sea_icons",
+      "name": "Sea",
+      "description": "Sea icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.sea",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSeaUnified.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sneaky_icons",
+      "name": "Sneaky",
+      "description": "Sneaky icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.sneaky",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSneakyUnified.apk",
+          "fileSize": 26300,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "stack_icons",
+      "name": "Stack",
+      "description": "Stack icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.stack",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackStackUnified.apk",
+          "fileSize": 54577,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "stroke_icons",
+      "name": "Stroke",
+      "description": "Stroke icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.stroke",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackStrokeUnified.apk",
+          "fileSize": 26300,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "victor_icons",
+      "name": "Victor",
+      "description": "Victor icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.victor",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackVictorUnified.apk",
+          "fileSize": 211993,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wannui_icons",
+      "name": "Wannui",
+      "description": "Wannui icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.wannui",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWannuiUnified.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wavy_icons",
+      "name": "Wavy",
+      "description": "Wavy icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.wavy",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWavyUnified.apk",
+          "fileSize": 26300,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "weed_icons",
+      "name": "Weed",
+      "description": "Weed icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.weed",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWeedUnified.apk",
+          "fileSize": 25321,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "windows_icons",
+      "name": "Windows",
+      "description": "Windows icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.windows",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWindowsUnified.apk",
+          "fileSize": 34097,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wing_icons",
+      "name": "Wing",
+      "description": "Wing icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.wing",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWingUnified.apk",
+          "fileSize": 148785,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "xperia_icons",
+      "name": "Xperia",
+      "description": "Xperia icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.xperia",
+          "targets": [
+            "android",
+            "systemui",
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackXperiaUnified.apk",
+          "fileSize": 129660,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "zigzag_icons",
+      "name": "ZigZag",
+      "description": "ZigZag icons",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_themes",
+      "tags": [
+        "icons",
+        "statusbar"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "unified",
+          "packageName": "com.android.theme.icon_pack.zigzag",
+          "targets": [
+            "wifi",
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackZigZagUnified.apk",
+          "fileSize": 22204,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "ui_style_axion",
+      "name": "Axion Style",
+      "description": "Time for some axion :)",
+      "author": "AxionAOSP",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "ui_style",
+      "tags": [
+        "ui",
+        "style",
+        "axion",
+        "default",
+        "modern",
+        "balanced"
+      ],
+      "isUnified": false,
+      "isUiStyle": true,
+      "uiStyleId": "axion",
+      "overlays": []
+    },
+    {
+      "id": "ui_style_material3",
+      "name": "Material 3 Expressive",
+      "description": "Google's Material 3 Expressive design language. Features squircle shapes, solid volume sliders, and dynamic color integration for a cohesive Material You experience.",
+      "author": "Google / AxionAOSP",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "ui_style",
+      "tags": [
+        "ui",
+        "style",
+        "material",
+        "google",
+        "expressive",
+        "material-you"
+      ],
+      "isUnified": false,
+      "isUiStyle": true,
+      "uiStyleId": "material3_expressive",
+      "overlays": []
+    },
+    {
+      "id": "ui_style_minimal",
+      "name": "Minimal Style",
+      "description": "Minimalist.",
+      "author": "AxionAOSP",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "ui_style",
+      "tags": [
+        "ui",
+        "style",
+        "minimal",
+        "clean",
+        "simple",
+        "sharp"
+      ],
+      "isUnified": false,
+      "isUiStyle": true,
+      "uiStyleId": "minimal",
+      "overlays": []
+    }
+  ]
+}

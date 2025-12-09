@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.theme.icon_pack.THEME_NAME"
+    android:versionCode="1"
+    android:versionName="1.0">
+    
+    <application 
+        android:label="THEME_DISPLAY_NAME" 
+        android:hasCode="false">
+        
+        <!-- 
+            Theme metadata: comma-separated list of supported components
+            
+            Available components:
+            - android: Android framework icons
+            - systemui: System UI icons
+            - wifi: WiFi indicator icons
+            - signal: Mobile signal icons
+            - battery: Battery indicator icons
+            
+            Examples:
+            - Full theme: "android,battery,signal,systemui,wifi"
+            - Status bar only: "battery,signal,wifi"
+            - Framework only: "android"
+        -->
+        <meta-data
+            android:name="axion_theme"
+            android:value="android,battery,signal,systemui,wifi" />
+    </application>
+</manifest>

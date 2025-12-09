@@ -1,0 +1,40 @@
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Build artifacts (if building themes locally)
+build/
+dist/
+*.class
+*.dex
+
+# Don't ignore actual theme files
+!apks/*.apk
+!previews/*.png
+!previews/*.jpg
+
+# Node modules (if using any build tools)
+node_modules/
+
+# Python virtual environments (if using any scripts)
+venv/
+__pycache__/
+*.pyc
+
+# Compressed archives (use APKs directly)
+*.zip
+*.tar.gz
+*.rar
+
+# Personal notes
+notes.txt
+TODO.md
