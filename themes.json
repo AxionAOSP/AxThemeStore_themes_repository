@@ -56,7 +56,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalAquarium",
+          "packageName": "com.android.systemui.signalbar_aa",
           "targets": [
             "signal"
           ],
@@ -112,7 +112,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalBars",
+          "packageName": "com.android.systemui.signalbar_h",
           "targets": [
             "signal"
           ],
@@ -140,7 +140,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalButterfly",
+          "packageName": "com.android.systemui.signalbar_ab",
           "targets": [
             "signal"
           ],
@@ -168,7 +168,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalCircle",
+          "packageName": "com.android.systemui.signalbar_aq",
           "targets": [
             "signal"
           ],
@@ -196,7 +196,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalDaun",
+          "packageName": "com.android.systemui.signalbar_ac",
           "targets": [
             "signal"
           ],
@@ -224,7 +224,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalDec",
+          "packageName": "com.android.systemui.signalbar_ad",
           "targets": [
             "signal"
           ],
@@ -252,7 +252,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalDeep",
+          "packageName": "com.android.systemui.signalbar_ae",
           "targets": [
             "signal"
           ],
@@ -280,7 +280,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalDora",
+          "packageName": "com.android.systemui.signalbar_j",
           "targets": [
             "signal"
           ],
@@ -308,7 +308,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalEqual",
+          "packageName": "com.android.systemui.signalbar_af",
           "targets": [
             "signal"
           ],
@@ -364,7 +364,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalFan",
+          "packageName": "com.android.systemui.signalbar_ag",
           "targets": [
             "signal"
           ],
@@ -420,7 +420,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalGradicon",
+          "packageName": "com.android.systemui.signalGradicon",
           "targets": [
             "signal"
           ],
@@ -448,7 +448,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalHuawei",
+          "packageName": "com.android.systemui.signalbar_ah",
           "targets": [
             "signal"
           ],
@@ -476,7 +476,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalInside",
+          "packageName": "com.android.systemui.signalbar_g",
           "targets": [
             "signal"
           ],
@@ -504,7 +504,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalIos",
+          "packageName": "com.android.systemui.signalbar_ar",
           "targets": [
             "signal"
           ],
@@ -532,7 +532,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalMini",
+          "packageName": "com.android.systemui.signalbar_as",
           "targets": [
             "signal"
           ],
@@ -560,7 +560,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalNothingDot",
+          "packageName": "com.android.systemui.signalNothingDot",
           "targets": [
             "signal"
           ],
@@ -588,7 +588,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalOdin",
+          "packageName": "com.android.systemui.signalbar_ap",
           "targets": [
             "signal"
           ],
@@ -616,7 +616,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalPills",
+          "packageName": "com.android.systemui.signalbar_at",
           "targets": [
             "signal"
           ],
@@ -672,7 +672,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalRel",
+          "packageName": "com.android.systemui.signalbar_ai",
           "targets": [
             "signal"
           ],
@@ -700,7 +700,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalRoman",
+          "packageName": "com.android.systemui.signalbar_au",
           "targets": [
             "signal"
           ],
@@ -728,7 +728,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalRound",
+          "packageName": "com.android.systemui.signalbar_f",
           "targets": [
             "signal"
           ],
@@ -756,7 +756,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalScroll",
+          "packageName": "com.android.systemui.signalbar_aj",
           "targets": [
             "signal"
           ],
@@ -784,7 +784,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalSea",
+          "packageName": "com.android.systemui.signalbar_ak",
           "targets": [
             "signal"
           ],
@@ -812,7 +812,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalSneaky",
+          "packageName": "com.android.systemui.signalbar_b",
           "targets": [
             "signal"
           ],
@@ -840,7 +840,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalStack",
+          "packageName": "com.android.systemui.signalbar_al",
           "targets": [
             "signal"
           ],
@@ -868,7 +868,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalStroke",
+          "packageName": "com.android.systemui.signalbar_a",
           "targets": [
             "signal"
           ],
@@ -896,7 +896,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalWannui",
+          "packageName": "com.android.systemui.signalbar_am",
           "targets": [
             "signal"
           ],
@@ -924,7 +924,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalWavy",
+          "packageName": "com.crdroid.systemui.signalbar_e",
           "targets": [
             "signal"
           ],
@@ -952,7 +952,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalWindows",
+          "packageName": "com.android.systemui.signalbar_an",
           "targets": [
             "signal"
           ],
@@ -980,7 +980,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalWing",
+          "packageName": "com.android.systemui.signalbar_ao",
           "targets": [
             "signal"
           ],
@@ -1008,7 +1008,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalXperia",
+          "packageName": "com.android.systemui.signalbar_c",
           "targets": [
             "signal"
           ],
@@ -1036,7 +1036,7 @@
       "overlays": [
         {
           "componentId": "signal",
-          "packageName": "com.custom.overlay.systemui.signalZigZag",
+          "packageName": "com.android.systemui.signalbar_d",
           "targets": [
             "signal"
           ],
@@ -1092,7 +1092,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiBars",
+          "packageName": "com.android.systemui.wifibar_h",
           "targets": [
             "wifi"
           ],
@@ -1120,7 +1120,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiDora",
+          "packageName": "com.android.systemui.wifibar_j",
           "targets": [
             "wifi"
           ],
@@ -1204,7 +1204,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiGradicon",
+          "packageName": "com.android.systemui.wifiGradicon",
           "targets": [
             "wifi"
           ],
@@ -1232,7 +1232,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiInside",
+          "packageName": "com.android.systemui.wifibar_g",
           "targets": [
             "wifi"
           ],
@@ -1260,7 +1260,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiNothingDot",
+          "packageName": "com.android.systemui.wifiNothingDot",
           "targets": [
             "wifi"
           ],
@@ -1316,7 +1316,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiRound",
+          "packageName": "com.android.systemui.wifibar_f",
           "targets": [
             "wifi"
           ],
@@ -1344,7 +1344,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiSneaky",
+          "packageName": "com.android.systemui.wifibar_b",
           "targets": [
             "wifi"
           ],
@@ -1372,7 +1372,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiStroke",
+          "packageName": "com.android.systemui.wifibar_a",
           "targets": [
             "wifi"
           ],
@@ -1400,7 +1400,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiWavy",
+          "packageName": "com.android.systemui.wifibar_e",
           "targets": [
             "wifi"
           ],
@@ -1428,7 +1428,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiWeed",
+          "packageName": "com.android.systemui.wifibar_i",
           "targets": [
             "wifi"
           ],
@@ -1456,7 +1456,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiXperia",
+          "packageName": "com.android.systemui.wifibar_c",
           "targets": [
             "wifi"
           ],
@@ -1484,7 +1484,7 @@
       "overlays": [
         {
           "componentId": "wifi",
-          "packageName": "com.custom.overlay.systemui.wifiZigZag",
+          "packageName": "com.android.systemui.wifibar_d",
           "targets": [
             "wifi"
           ],
