@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "lastUpdated": "2025-12-12T12:15:00Z",
+  "version": 3,
+  "lastUpdated": "2026-03-15T15:00:00Z",
   "repository": {
     "name": "AxThemeStore Official Repository",
     "description": "Official theme repository for AxionAOSP Theme Store",
@@ -9,1548 +9,1490 @@
   },
   "components": [
     {
-      "id": "android",
-      "name": "Android Framework",
-      "description": "Core Android framework icons and system resources",
+      "id": "signal",
+      "name": "Signal Icons",
+      "description": "Mobile signal indicator icons",
       "targetPackage": "android",
-      "icon": "android"
-    },
-    {
-      "id": "systemui",
-      "name": "System UI",
-      "description": "System UI icons including status bar and quick settings",
-      "targetPackage": "com.android.systemui",
-      "icon": "systemui"
+      "icon": "signal"
     },
     {
       "id": "wifi",
       "name": "WiFi Icons",
       "description": "WiFi signal indicator icons",
-      "targetPackage": "com.android.systemui",
+      "targetPackage": "android",
       "icon": "wifi"
-    },
-    {
-      "id": "signal",
-      "name": "Signal Icons",
-      "description": "Mobile signal indicator icons",
-      "targetPackage": "com.android.systemui",
-      "icon": "signal"
     }
   ],
   "categories": [
     {
-      "id": "icon_themes",
-      "name": "Icon Themes",
-      "description": "System icon themes for status bar, quick settings, and framework",
-      "icon": "palette"
+      "id": "signal_icons",
+      "name": "Signal Icons",
+      "description": "Mobile signal bar themes",
+      "icon": "signal_cellular_alt"
     },
     {
-      "id": "ui_style",
-      "name": "UI Styles",
-      "description": "Complete UI style presets including shapes, colors, and component styles",
-      "icon": "category"
+      "id": "wifi_icons",
+      "name": "WiFi Icons",
+      "description": "WiFi signal bar themes",
+      "icon": "wifi"
     }
   ],
   "themes": [
     {
-      "id": "acherus_icons",
-      "name": "Acherus",
-      "description": "Acherus icons",
-      "author": "Unknown",
+      "id": "aquarium_signal",
+      "name": "Aquarium Signal",
+      "description": "Aquarium signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.acherus",
-          "targets": [
-            "android",
-            "systemui",
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAcherusUnified.apk",
-          "fileSize": 164311,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "aquarium_icons",
-      "name": "Aquarium",
-      "description": "Aquarium icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.aquarium",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalAquarium",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAquariumUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/AquariumSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
       ]
     },
     {
-      "id": "aurora_icons",
-      "name": "Aurora",
-      "description": "Aurora icons",
-      "author": "Unknown",
+      "id": "aurora_signal",
+      "name": "Aurora Signal",
+      "description": "Aurora signal icons",
+      "author": "DrDisagree",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.aurora",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalAurora",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAuroraUnified.apk",
-          "fileSize": 509057,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/AuroraSignalOverlay.apk",
+          "fileSize": 35308,
           "enabled": true
         }
       ]
     },
     {
-      "id": "bars_icons",
-      "name": "Bars",
-      "description": "Bars icons",
-      "author": "Unknown",
+      "id": "bars_signal",
+      "name": "Bars Signal",
+      "description": "Bars signal icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.bars",
-          "targets": [
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackBarsUnified.apk",
-          "fileSize": 26300,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "butterfly_icons",
-      "name": "Butterfly",
-      "description": "Butterfly icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.butterfly",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalBars",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackButterflyUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/BarsSignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
       ]
     },
     {
-      "id": "circle_icons",
-      "name": "Circle",
-      "description": "Circle icons",
-      "author": "Unknown",
+      "id": "butterfly_signal",
+      "name": "Butterfly Signal",
+      "description": "Butterfly signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.circle",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalButterfly",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircleUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ButterflySignalOverlay.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "circle_signal",
+      "name": "Circle Signal",
+      "description": "Circle signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalCircle",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/CircleSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "circular_icons",
-      "name": "Circular",
-      "description": "Circular icons",
-      "author": "Unknown",
+      "id": "daun_signal",
+      "name": "Daun Signal",
+      "description": "Daun signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.circular",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalDaun",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircularUnified.apk",
-          "fileSize": 146392,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DaunSignalOverlay.apk",
+          "fileSize": 30001,
           "enabled": true
         }
       ]
     },
     {
-      "id": "daun_icons",
-      "name": "Daun",
-      "description": "Daun icons",
-      "author": "Unknown",
+      "id": "dec_signal",
+      "name": "Dec Signal",
+      "description": "Dec signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.daun",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalDec",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDaunUnified.apk",
-          "fileSize": 34097,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "dec_icons",
-      "name": "Dec",
-      "description": "Dec icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.dec",
-          "targets": [
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDecUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DecSignalOverlay.apk",
           "fileSize": 46385,
           "enabled": true
         }
       ]
     },
     {
-      "id": "deep_icons",
-      "name": "Deep",
-      "description": "Deep icons",
-      "author": "Unknown",
+      "id": "deep_signal",
+      "name": "Deep Signal",
+      "description": "Deep signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.deep",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalDeep",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDeepUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DeepSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
       ]
     },
     {
-      "id": "dora_icons",
-      "name": "Dora",
-      "description": "Dora icons",
-      "author": "Unknown",
+      "id": "dora_signal",
+      "name": "Dora Signal",
+      "description": "Dora signal icons",
+      "author": "F5LAYD",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.dora",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalDora",
           "targets": [
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackDoraUnified.apk",
-          "fileSize": 55069,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DoraSignalOverlay.apk",
+          "fileSize": 42289,
           "enabled": true
         }
       ]
     },
     {
-      "id": "equal_icons",
-      "name": "Equal",
-      "description": "Equal icons",
-      "author": "Unknown",
+      "id": "equal_signal",
+      "name": "Equal Signal",
+      "description": "Equal signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.equal",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalEqual",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackEqualUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/EqualSignalOverlay.apk",
           "fileSize": 34097,
           "enabled": true
         }
       ]
     },
     {
-      "id": "faintui_icons",
-      "name": "FaintUI",
-      "description": "FaintUI icons",
-      "author": "Unknown",
+      "id": "faintui_signal",
+      "name": "FaintUI Signal",
+      "description": "FaintUI signal icons",
+      "author": "DrDisagree",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.faintui",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalFaintUI",
           "targets": [
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFaintUIUnified.apk",
-          "fileSize": 48194,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/FaintUISignalOverlay.apk",
+          "fileSize": 39404,
           "enabled": true
         }
       ]
     },
     {
-      "id": "fan_icons",
-      "name": "Fan",
-      "description": "Fan icons",
-      "author": "Unknown",
+      "id": "fan_signal",
+      "name": "Fan Signal",
+      "description": "Fan signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.fan",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalFan",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFanUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/FanSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
       ]
     },
     {
-      "id": "filled_icons",
-      "name": "Filled",
-      "description": "Filled icons",
-      "author": "Unknown",
+      "id": "forlorn_signal",
+      "name": "Forlorn Signal",
+      "description": "Forlorn signal icons",
+      "author": "DrDisagree",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.filled",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalForlorn",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFilledUnified.apk",
-          "fileSize": 125437,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ForlornSignalOverlay.apk",
+          "fileSize": 31212,
           "enabled": true
         }
       ]
     },
     {
-      "id": "forlorn_icons",
-      "name": "Forlorn",
-      "description": "Forlorn icons",
-      "author": "Unknown",
+      "id": "gradicon_signal",
+      "name": "Gradicon Signal",
+      "description": "Gradicon signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.forlorn",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalGradicon",
           "targets": [
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackForlornUnified.apk",
-          "fileSize": 40002,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/GradiconSignalOverlay.apk",
+          "fileSize": 115666,
           "enabled": true
         }
       ]
     },
     {
-      "id": "gradicon_icons",
-      "name": "Gradicon",
-      "description": "Gradicon icons",
-      "author": "Unknown",
+      "id": "huawei_signal",
+      "name": "Huawei Signal",
+      "description": "Huawei signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.gradicon",
-          "targets": [
-            "android",
-            "systemui",
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackGradiconUnified.apk",
-          "fileSize": 1631831,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "huawei_icons",
-      "name": "Huawei",
-      "description": "Huawei icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.huawei",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalHuawei",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackHuaweiUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/HuaweiSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
       ]
     },
     {
-      "id": "inside_icons",
-      "name": "Inside",
-      "description": "Inside icons",
-      "author": "Unknown",
+      "id": "inside_signal",
+      "name": "Inside Signal",
+      "description": "Inside signal icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.inside",
-          "targets": [
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackInsideUnified.apk",
-          "fileSize": 26300,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "ios_icons",
-      "name": "Ios",
-      "description": "Ios icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.ios",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalInside",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackIosUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/InsideSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "kai_icons",
-      "name": "Kai",
-      "description": "Kai icons",
-      "author": "Unknown",
+      "id": "ios_signal",
+      "name": "Ios Signal",
+      "description": "Ios signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.kai",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalIos",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackKaiUnified.apk",
-          "fileSize": 228401,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IosSignalOverlay.apk",
+          "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "lorn_icons",
-      "name": "Lorn",
-      "description": "Lorn icons",
-      "author": "Unknown",
+      "id": "mini_signal",
+      "name": "Mini Signal",
+      "description": "Mini signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.lorn",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalMini",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackLornUnified.apk",
-          "fileSize": 487642,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/MiniSignalOverlay.apk",
+          "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "mini_icons",
-      "name": "Mini",
-      "description": "Mini icons",
-      "author": "Unknown",
+      "id": "nothingdot_signal",
+      "name": "NothingDot Signal",
+      "description": "NothingDot signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.mini",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalNothingDot",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackMiniUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/NothingDotSignalOverlay.apk",
+          "fileSize": 103810,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "odin_signal",
+      "name": "Odin Signal",
+      "description": "Odin signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalOdin",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/OdinSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "pills_signal",
+      "name": "Pills Signal",
+      "description": "Pills signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalPills",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/PillsSignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
       ]
     },
     {
-      "id": "nostalgic_icons",
-      "name": "Nostalgic",
-      "description": "Nostalgic icons",
-      "author": "Unknown",
+      "id": "plumpy_signal",
+      "name": "Plumpy Signal",
+      "description": "Plumpy signal icons",
+      "author": "DrDisagree",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.nostalgic",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalPlumpy",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNostalgicUnified.apk",
-          "fileSize": 112340,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/PlumpySignalOverlay.apk",
+          "fileSize": 35308,
           "enabled": true
         }
       ]
     },
     {
-      "id": "nothingdot_icons",
-      "name": "NothingDot",
-      "description": "NothingDot icons",
-      "author": "Unknown",
+      "id": "rel_signal",
+      "name": "Rel Signal",
+      "description": "Rel signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.nothingdot",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalRel",
           "targets": [
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNothingDotUnified.apk",
-          "fileSize": 108301,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RelSignalOverlay.apk",
+          "fileSize": 30001,
           "enabled": true
         }
       ]
     },
     {
-      "id": "oos_icons",
-      "name": "OOS",
-      "description": "OOS icons",
-      "author": "Unknown",
+      "id": "roman_signal",
+      "name": "Roman Signal",
+      "description": "Roman signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.oos",
-          "targets": [
-            "android",
-            "systemui",
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOOSUnified.apk",
-          "fileSize": 142180,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "odin_icons",
-      "name": "Odin",
-      "description": "Odin icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.odin",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalRoman",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOdinUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RomanSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "outline_icons",
-      "name": "Outline",
-      "description": "Outline icons",
-      "author": "Unknown",
+      "id": "round_signal",
+      "name": "Round Signal",
+      "description": "Round signal icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.outline",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalRound",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOutlineUnified.apk",
-          "fileSize": 426367,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RoundSignalOverlay.apk",
+          "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "pui_icons",
-      "name": "PUI",
-      "description": "PUI icons",
-      "author": "Unknown",
+      "id": "scroll_signal",
+      "name": "Scroll Signal",
+      "description": "Scroll signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.pui",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalScroll",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPUIUnified.apk",
-          "fileSize": 182948,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ScrollSignalOverlay.apk",
+          "fileSize": 25905,
           "enabled": true
         }
       ]
     },
     {
-      "id": "pills_icons",
-      "name": "Pills",
-      "description": "Pills icons",
-      "author": "Unknown",
+      "id": "sea_signal",
+      "name": "Sea Signal",
+      "description": "Sea signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.pills",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalSea",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPillsUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/SeaSignalOverlay.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sneaky_signal",
+      "name": "Sneaky Signal",
+      "description": "Sneaky signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalSneaky",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/SneakySignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
       ]
     },
     {
-      "id": "plumpy_icons",
-      "name": "Plumpy",
-      "description": "Plumpy icons",
-      "author": "Unknown",
+      "id": "stack_signal",
+      "name": "Stack Signal",
+      "description": "Stack signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.plumpy",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalStack",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPlumpyUnified.apk",
-          "fileSize": 549511,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/StackSignalOverlay.apk",
+          "fileSize": 50481,
           "enabled": true
         }
       ]
     },
     {
-      "id": "rel_icons",
-      "name": "Rel",
-      "description": "Rel icons",
-      "author": "Unknown",
+      "id": "stroke_signal",
+      "name": "Stroke Signal",
+      "description": "Stroke signal icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.rel",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalStroke",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRelUnified.apk",
-          "fileSize": 30001,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "roman_icons",
-      "name": "Roman",
-      "description": "Roman icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.roman",
-          "targets": [
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRomanUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/StrokeSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "round_icons",
-      "name": "Round",
-      "description": "Round icons",
-      "author": "Unknown",
+      "id": "wannui_signal",
+      "name": "Wannui Signal",
+      "description": "Wannui signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.round",
-          "targets": [
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundUnified.apk",
-          "fileSize": 22204,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "rounded_icons",
-      "name": "Rounded",
-      "description": "Rounded icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.rounded",
-          "targets": [
-            "android",
-            "systemui",
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundedUnified.apk",
-          "fileSize": 137725,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "sam_icons",
-      "name": "Sam",
-      "description": "Sam icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.sam",
-          "targets": [
-            "android",
-            "systemui",
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSamUnified.apk",
-          "fileSize": 201491,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "scroll_icons",
-      "name": "Scroll",
-      "description": "Scroll icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.scroll",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalWannui",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackScrollUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WannuiSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
       ]
     },
     {
-      "id": "sea_icons",
-      "name": "Sea",
-      "description": "Sea icons",
-      "author": "Unknown",
+      "id": "wavy_signal",
+      "name": "Wavy Signal",
+      "description": "Wavy signal icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.sea",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalWavy",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSeaUnified.apk",
-          "fileSize": 30001,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WavySignalOverlay.apk",
+          "fileSize": 21809,
           "enabled": true
         }
       ]
     },
     {
-      "id": "sneaky_icons",
-      "name": "Sneaky",
-      "description": "Sneaky icons",
-      "author": "Unknown",
+      "id": "windows_signal",
+      "name": "Windows Signal",
+      "description": "Windows signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.sneaky",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalWindows",
           "targets": [
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSneakyUnified.apk",
-          "fileSize": 26300,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WindowsSignalOverlay.apk",
+          "fileSize": 34097,
           "enabled": true
         }
       ]
     },
     {
-      "id": "stack_icons",
-      "name": "Stack",
-      "description": "Stack icons",
-      "author": "Unknown",
+      "id": "wing_signal",
+      "name": "Wing Signal",
+      "description": "Wing signal icons",
+      "author": "rdx420",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.stack",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalWing",
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackStackUnified.apk",
-          "fileSize": 54577,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WingSignalOverlay.apk",
+          "fileSize": 144689,
           "enabled": true
         }
       ]
     },
     {
-      "id": "stroke_icons",
-      "name": "Stroke",
-      "description": "Stroke icons",
-      "author": "Unknown",
+      "id": "xperia_signal",
+      "name": "Xperia Signal",
+      "description": "Xperia signal icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.stroke",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalXperia",
           "targets": [
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackStrokeUnified.apk",
-          "fileSize": 26300,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/XperiaSignalOverlay.apk",
+          "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "victor_icons",
-      "name": "Victor",
-      "description": "Victor icons",
-      "author": "Unknown",
+      "id": "zigzag_signal",
+      "name": "ZigZag Signal",
+      "description": "ZigZag signal icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "signal_icons",
       "tags": [
-        "icons",
+        "signal",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.victor",
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalZigZag",
           "targets": [
-            "android",
-            "systemui",
-            "wifi",
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackVictorUnified.apk",
-          "fileSize": 211993,
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ZigZagSignalOverlay.apk",
+          "fileSize": 17713,
           "enabled": true
         }
       ]
     },
     {
-      "id": "wannui_icons",
-      "name": "Wannui",
-      "description": "Wannui icons",
-      "author": "Unknown",
+      "id": "aurora_wifi",
+      "name": "Aurora WiFi",
+      "description": "Aurora WiFi icons",
+      "author": "DrDisagree",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "wifi_icons",
       "tags": [
-        "icons",
+        "wifi",
         "statusbar"
       ],
-      "isUnified": true,
+      "isUnified": false,
       "overlays": [
         {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.wannui",
-          "targets": [
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWannuiUnified.apk",
-          "fileSize": 25905,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "wavy_icons",
-      "name": "Wavy",
-      "description": "Wavy icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.wavy",
-          "targets": [
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWavyUnified.apk",
-          "fileSize": 26300,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "weed_icons",
-      "name": "Weed",
-      "description": "Weed icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.weed",
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiAurora",
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWeedUnified.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/AuroraWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bars_wifi",
+      "name": "Bars WiFi",
+      "description": "Bars WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiBars",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/BarsWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dora_wifi",
+      "name": "Dora WiFi",
+      "description": "Dora WiFi icons",
+      "author": "F5LAYD",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiDora",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DoraWiFiOverlay.apk",
+          "fileSize": 25418,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "faintui_wifi",
+      "name": "FaintUI WiFi",
+      "description": "FaintUI WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiFaintUI",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/FaintUIWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "forlorn_wifi",
+      "name": "Forlorn WiFi",
+      "description": "Forlorn WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiForlorn",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ForlornWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "gradicon_wifi",
+      "name": "Gradicon WiFi",
+      "description": "Gradicon WiFi icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiGradicon",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/GradiconWiFiOverlay.apk",
+          "fileSize": 45664,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "inside_wifi",
+      "name": "Inside WiFi",
+      "description": "Inside WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiInside",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/InsideWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "nothingdot_wifi",
+      "name": "NothingDot WiFi",
+      "description": "NothingDot WiFi icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiNothingDot",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/NothingDotWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "plumpy_wifi",
+      "name": "Plumpy WiFi",
+      "description": "Plumpy WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiPlumpy",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/PlumpyWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "round_wifi",
+      "name": "Round WiFi",
+      "description": "Round WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiRound",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RoundWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sneaky_wifi",
+      "name": "Sneaky WiFi",
+      "description": "Sneaky WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiSneaky",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/SneakyWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "stroke_wifi",
+      "name": "Stroke WiFi",
+      "description": "Stroke WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiStroke",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/StrokeWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wavy_wifi",
+      "name": "Wavy WiFi",
+      "description": "Wavy WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiWavy",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WavyWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "weed_wifi",
+      "name": "Weed WiFi",
+      "description": "Weed WiFi icons",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiWeed",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WeedWiFiOverlay.apk",
           "fileSize": 25321,
           "enabled": true
         }
       ]
     },
     {
-      "id": "windows_icons",
-      "name": "Windows",
-      "description": "Windows icons",
-      "author": "Unknown",
+      "id": "xperia_wifi",
+      "name": "Xperia WiFi",
+      "description": "Xperia WiFi icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "icon_themes",
+      "category": "wifi_icons",
       "tags": [
-        "icons",
+        "wifi",
         "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.windows",
-          "targets": [
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWindowsUnified.apk",
-          "fileSize": 34097,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "wing_icons",
-      "name": "Wing",
-      "description": "Wing icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.wing",
-          "targets": [
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackWingUnified.apk",
-          "fileSize": 148785,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "xperia_icons",
-      "name": "Xperia",
-      "description": "Xperia icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.xperia",
-          "targets": [
-            "android",
-            "systemui",
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackXperiaUnified.apk",
-          "fileSize": 129660,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "zigzag_icons",
-      "name": "ZigZag",
-      "description": "ZigZag icons",
-      "author": "Unknown",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "icon_themes",
-      "tags": [
-        "icons",
-        "statusbar"
-      ],
-      "isUnified": true,
-      "overlays": [
-        {
-          "componentId": "unified",
-          "packageName": "com.android.theme.icon_pack.zigzag",
-          "targets": [
-            "wifi",
-            "signal"
-          ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackZigZagUnified.apk",
-          "fileSize": 22204,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": "ui_style_axion",
-      "name": "Axion Style",
-      "description": "Time for some axion :)",
-      "author": "AxionAOSP",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "ui_style",
-      "tags": [
-        "ui",
-        "style",
-        "axion",
-        "default",
-        "modern",
-        "balanced"
       ],
       "isUnified": false,
-      "isUiStyle": true,
-      "uiStyleId": "axion",
-      "overlays": []
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiXperia",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/XperiaWiFiOverlay.apk",
+          "fileSize": 17129,
+          "enabled": true
+        }
+      ]
     },
     {
-      "id": "ui_style_material3",
-      "name": "Material 3 Expressive",
-      "description": "Google's Material 3 Expressive design language. Features squircle shapes, solid volume sliders, and dynamic color integration for a cohesive Material You experience.",
-      "author": "Google / AxionAOSP",
+      "id": "zigzag_wifi",
+      "name": "ZigZag WiFi",
+      "description": "ZigZag WiFi icons",
+      "author": "Advaith Bhat",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
       "previewImages": [],
-      "category": "ui_style",
+      "category": "wifi_icons",
       "tags": [
-        "ui",
-        "style",
-        "material",
-        "google",
-        "expressive",
-        "material-you"
+        "wifi",
+        "statusbar"
       ],
       "isUnified": false,
-      "isUiStyle": true,
-      "uiStyleId": "material3_expressive",
-      "overlays": []
-    },
-    {
-      "id": "ui_style_minimal",
-      "name": "Minimal Style",
-      "description": "Minimalist.",
-      "author": "AxionAOSP",
-      "version": "1.0.0",
-      "versionCode": 1,
-      "minSdk": 35,
-      "previewImages": [],
-      "category": "ui_style",
-      "tags": [
-        "ui",
-        "style",
-        "minimal",
-        "clean",
-        "simple",
-        "sharp"
-      ],
-      "isUnified": false,
-      "isUiStyle": true,
-      "uiStyleId": "minimal",
-      "overlays": []
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiZigZag",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ZigZagWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
     }
   ]
 }
