@@ -35,6 +35,12 @@
       "name": "WiFi Icons",
       "description": "WiFi signal bar themes",
       "icon": "wifi"
+    },
+    {
+      "id": "icon_packs",
+      "name": "Icon Packs",
+      "description": "System-wide icon style themes",
+      "icon": "category"
     }
   ],
   "themes": [
@@ -1490,6 +1496,614 @@
           ],
           "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ZigZagWiFiOverlay.apk",
           "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_acherus",
+      "name": "Acherus",
+      "description": "Acherus icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.acherus.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAcherusAndroidOverlay.apk",
+          "fileSize": 44567,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.acherus.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAcherusSystemUIOverlay.apk",
+          "fileSize": 138190,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_aurora",
+      "name": "Aurora",
+      "description": "Aurora icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.aurora.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAuroraAndroidOverlay.apk",
+          "fileSize": 135346,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.aurora.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAuroraSystemUIOverlay.apk",
+          "fileSize": 388877,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_circular",
+      "name": "Circular",
+      "description": "Circular icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.circular.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircularAndroidOverlay.apk",
+          "fileSize": 84530,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.circular.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircularSystemUIOverlay.apk",
+          "fileSize": 70484,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_filled",
+      "name": "Filled",
+      "description": "Filled icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.filled.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFilledAndroidOverlay.apk",
+          "fileSize": 71767,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.filled.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFilledSystemUIOverlay.apk",
+          "fileSize": 62292,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_gradicon",
+      "name": "Gradicon",
+      "description": "Gradicon icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.gradicon.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackGradiconAndroidOverlay.apk",
+          "fileSize": 406338,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.gradicon.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackGradiconSystemUIOverlay.apk",
+          "fileSize": 1125207,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_kai",
+      "name": "Kai",
+      "description": "Kai icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.kai.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackKaiAndroidOverlay.apk",
+          "fileSize": 104973,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.kai.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackKaiSystemUIOverlay.apk",
+          "fileSize": 128030,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_lorn",
+      "name": "Lorn",
+      "description": "Lorn icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.lorn.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackLornAndroidOverlay.apk",
+          "fileSize": 131324,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.lorn.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackLornSystemUIOverlay.apk",
+          "fileSize": 367388,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_nostalgic",
+      "name": "Nostalgic",
+      "description": "Nostalgic icon pack",
+      "author": "Rados\u0142aw B\u0142\u0119dowski",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.nostalgic.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNostalgicAndroidOverlay.apk",
+          "fileSize": 53926,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.nostalgic.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNostalgicSystemUIOverlay.apk",
+          "fileSize": 67113,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_oos",
+      "name": "OOS",
+      "description": "OOS icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.oos.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOOSAndroidOverlay.apk",
+          "fileSize": 80483,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.oos.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOOSSystemUIOverlay.apk",
+          "fileSize": 66214,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_outline",
+      "name": "Outline",
+      "description": "Outline icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.outline.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOutlineAndroidOverlay.apk",
+          "fileSize": 149210,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.outline.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOutlineSystemUIOverlay.apk",
+          "fileSize": 278421,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_plumpy",
+      "name": "Plumpy",
+      "description": "Plumpy icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.plumpy.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPlumpyAndroidOverlay.apk",
+          "fileSize": 138914,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.plumpy.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPlumpySystemUIOverlay.apk",
+          "fileSize": 425659,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_pui",
+      "name": "PUI",
+      "description": "PUI icon pack",
+      "author": "spkal01",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.pui.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPUIAndroidOverlay.apk",
+          "fileSize": 152490,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.pui.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPUISystemUIOverlay.apk",
+          "fileSize": 170152,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_rounded",
+      "name": "Rounded",
+      "description": "Rounded icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.rounded.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundedAndroidOverlay.apk",
+          "fileSize": 75863,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.rounded.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundedSystemUIOverlay.apk",
+          "fileSize": 66388,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_sam",
+      "name": "Sam",
+      "description": "Sam icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.sam.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSamAndroidOverlay.apk",
+          "fileSize": 96247,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.sam.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSamSystemUIOverlay.apk",
+          "fileSize": 113942,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_victor",
+      "name": "Victor",
+      "description": "Victor icon pack",
+      "author": "Pranav Vashi",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.victor.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackVictorAndroidOverlay.apk",
+          "fileSize": 96449,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.victor.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackVictorSystemUIOverlay.apk",
+          "fileSize": 124242,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_xperia",
+      "name": "Xperia",
+      "description": "Xperia icon pack",
+      "author": "AndroBuddy",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.xperia.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackXperiaAndroidOverlay.apk",
+          "fileSize": 76316,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.xperia.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackXperiaSystemUIOverlay.apk",
+          "fileSize": 57943,
           "enabled": true
         }
       ]
