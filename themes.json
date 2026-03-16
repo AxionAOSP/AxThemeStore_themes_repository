@@ -5,7 +5,7 @@
     "name": "AxThemeStore Official Repository",
     "description": "Official theme repository for AxionAOSP Theme Store",
     "maintainer": "AxionAOSP Team",
-    "baseUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main"
+    "baseUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2"
   },
   "components": [
     {
@@ -66,7 +66,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/AquariumSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/AquariumSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -94,7 +94,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/AuroraSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/AuroraSignalOverlay.apk",
           "fileSize": 35308,
           "enabled": true
         }
@@ -122,7 +122,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/BarsSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BarsSignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -150,7 +150,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ButterflySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/ButterflySignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -178,7 +178,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/CircleSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/CircleSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -206,7 +206,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DaunSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/DaunSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -234,7 +234,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DecSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/DecSignalOverlay.apk",
           "fileSize": 46385,
           "enabled": true
         }
@@ -262,7 +262,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DeepSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/DeepSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -290,7 +290,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DoraSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/DoraSignalOverlay.apk",
           "fileSize": 42289,
           "enabled": true
         }
@@ -318,7 +318,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/EqualSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/EqualSignalOverlay.apk",
           "fileSize": 34097,
           "enabled": true
         }
@@ -346,7 +346,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/FaintUISignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/FaintUISignalOverlay.apk",
           "fileSize": 39404,
           "enabled": true
         }
@@ -374,7 +374,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/FanSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/FanSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -402,7 +402,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ForlornSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/ForlornSignalOverlay.apk",
           "fileSize": 31212,
           "enabled": true
         }
@@ -430,7 +430,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/GradiconSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/GradiconSignalOverlay.apk",
           "fileSize": 115666,
           "enabled": true
         }
@@ -458,7 +458,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/HuaweiSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/HuaweiSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -486,7 +486,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/InsideSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/InsideSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -514,7 +514,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IosSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IosSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -542,7 +542,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/MiniSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/MiniSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -570,7 +570,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/NothingDotSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/NothingDotSignalOverlay.apk",
           "fileSize": 103810,
           "enabled": true
         }
@@ -598,7 +598,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/OdinSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/OdinSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -626,7 +626,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/PillsSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/PillsSignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -654,7 +654,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/PlumpySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/PlumpySignalOverlay.apk",
           "fileSize": 35308,
           "enabled": true
         }
@@ -682,7 +682,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RelSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/RelSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -710,7 +710,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RomanSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/RomanSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -738,7 +738,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RoundSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/RoundSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -766,7 +766,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ScrollSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/ScrollSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -794,7 +794,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/SeaSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/SeaSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -822,7 +822,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/SneakySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/SneakySignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -850,7 +850,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/StackSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/StackSignalOverlay.apk",
           "fileSize": 50481,
           "enabled": true
         }
@@ -878,7 +878,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/StrokeSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/StrokeSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -906,7 +906,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WannuiSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/WannuiSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -934,7 +934,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WavySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/WavySignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -962,7 +962,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WindowsSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/WindowsSignalOverlay.apk",
           "fileSize": 34097,
           "enabled": true
         }
@@ -990,7 +990,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WingSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/WingSignalOverlay.apk",
           "fileSize": 144689,
           "enabled": true
         }
@@ -1018,7 +1018,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/XperiaSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/XperiaSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -1046,7 +1046,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ZigZagSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/ZigZagSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -1074,7 +1074,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/AuroraWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/AuroraWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1102,7 +1102,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/BarsWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BarsWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1130,7 +1130,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/DoraWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/DoraWiFiOverlay.apk",
           "fileSize": 25418,
           "enabled": true
         }
@@ -1158,7 +1158,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/FaintUIWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/FaintUIWiFiOverlay.apk",
           "fileSize": 17332,
           "enabled": true
         }
@@ -1186,7 +1186,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ForlornWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/ForlornWiFiOverlay.apk",
           "fileSize": 17332,
           "enabled": true
         }
@@ -1214,7 +1214,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/GradiconWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/GradiconWiFiOverlay.apk",
           "fileSize": 45664,
           "enabled": true
         }
@@ -1242,7 +1242,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/InsideWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/InsideWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1270,7 +1270,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/NothingDotWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/NothingDotWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1298,7 +1298,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/PlumpyWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/PlumpyWiFiOverlay.apk",
           "fileSize": 17332,
           "enabled": true
         }
@@ -1326,7 +1326,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/RoundWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/RoundWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1354,7 +1354,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/SneakyWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/SneakyWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1382,7 +1382,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/StrokeWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/StrokeWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1410,7 +1410,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WavyWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/WavyWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1438,7 +1438,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/WeedWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/WeedWiFiOverlay.apk",
           "fileSize": 25321,
           "enabled": true
         }
@@ -1466,7 +1466,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/XperiaWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/XperiaWiFiOverlay.apk",
           "fileSize": 17129,
           "enabled": true
         }
@@ -1494,7 +1494,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/ZigZagWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/ZigZagWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1522,7 +1522,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAcherusAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackAcherusAndroidOverlay.apk",
           "fileSize": 44567,
           "enabled": true
         },
@@ -1532,7 +1532,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAcherusSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackAcherusSystemUIOverlay.apk",
           "fileSize": 138190,
           "enabled": true
         }
@@ -1560,7 +1560,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAuroraAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackAuroraAndroidOverlay.apk",
           "fileSize": 135346,
           "enabled": true
         },
@@ -1570,7 +1570,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackAuroraSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackAuroraSystemUIOverlay.apk",
           "fileSize": 388877,
           "enabled": true
         }
@@ -1598,7 +1598,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircularAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackCircularAndroidOverlay.apk",
           "fileSize": 84530,
           "enabled": true
         },
@@ -1608,7 +1608,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackCircularSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackCircularSystemUIOverlay.apk",
           "fileSize": 70484,
           "enabled": true
         }
@@ -1636,7 +1636,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFilledAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackFilledAndroidOverlay.apk",
           "fileSize": 71767,
           "enabled": true
         },
@@ -1646,7 +1646,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackFilledSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackFilledSystemUIOverlay.apk",
           "fileSize": 62292,
           "enabled": true
         }
@@ -1674,7 +1674,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackGradiconAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackGradiconAndroidOverlay.apk",
           "fileSize": 406338,
           "enabled": true
         },
@@ -1684,7 +1684,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackGradiconSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackGradiconSystemUIOverlay.apk",
           "fileSize": 1125207,
           "enabled": true
         }
@@ -1712,7 +1712,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackKaiAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackKaiAndroidOverlay.apk",
           "fileSize": 104973,
           "enabled": true
         },
@@ -1722,7 +1722,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackKaiSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackKaiSystemUIOverlay.apk",
           "fileSize": 128030,
           "enabled": true
         }
@@ -1750,7 +1750,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackLornAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackLornAndroidOverlay.apk",
           "fileSize": 131324,
           "enabled": true
         },
@@ -1760,7 +1760,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackLornSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackLornSystemUIOverlay.apk",
           "fileSize": 367388,
           "enabled": true
         }
@@ -1788,7 +1788,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNostalgicAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackNostalgicAndroidOverlay.apk",
           "fileSize": 53926,
           "enabled": true
         },
@@ -1798,7 +1798,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackNostalgicSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackNostalgicSystemUIOverlay.apk",
           "fileSize": 67113,
           "enabled": true
         }
@@ -1826,7 +1826,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOOSAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackOOSAndroidOverlay.apk",
           "fileSize": 80483,
           "enabled": true
         },
@@ -1836,7 +1836,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOOSSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackOOSSystemUIOverlay.apk",
           "fileSize": 66214,
           "enabled": true
         }
@@ -1864,7 +1864,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOutlineAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackOutlineAndroidOverlay.apk",
           "fileSize": 149210,
           "enabled": true
         },
@@ -1874,7 +1874,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackOutlineSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackOutlineSystemUIOverlay.apk",
           "fileSize": 278421,
           "enabled": true
         }
@@ -1902,7 +1902,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPlumpyAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackPlumpyAndroidOverlay.apk",
           "fileSize": 138914,
           "enabled": true
         },
@@ -1912,7 +1912,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPlumpySystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackPlumpySystemUIOverlay.apk",
           "fileSize": 425659,
           "enabled": true
         }
@@ -1940,7 +1940,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPUIAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackPUIAndroidOverlay.apk",
           "fileSize": 152490,
           "enabled": true
         },
@@ -1950,7 +1950,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackPUISystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackPUISystemUIOverlay.apk",
           "fileSize": 170152,
           "enabled": true
         }
@@ -1978,7 +1978,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundedAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackRoundedAndroidOverlay.apk",
           "fileSize": 75863,
           "enabled": true
         },
@@ -1988,7 +1988,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackRoundedSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackRoundedSystemUIOverlay.apk",
           "fileSize": 66388,
           "enabled": true
         }
@@ -2016,7 +2016,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSamAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackSamAndroidOverlay.apk",
           "fileSize": 96247,
           "enabled": true
         },
@@ -2026,7 +2026,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackSamSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackSamSystemUIOverlay.apk",
           "fileSize": 113942,
           "enabled": true
         }
@@ -2054,7 +2054,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackVictorAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackVictorAndroidOverlay.apk",
           "fileSize": 96449,
           "enabled": true
         },
@@ -2064,7 +2064,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackVictorSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackVictorSystemUIOverlay.apk",
           "fileSize": 124242,
           "enabled": true
         }
@@ -2092,7 +2092,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackXperiaAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackXperiaAndroidOverlay.apk",
           "fileSize": 76316,
           "enabled": true
         },
@@ -2102,7 +2102,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/main/apks/IconPackXperiaSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackXperiaSystemUIOverlay.apk",
           "fileSize": 57943,
           "enabled": true
         }
