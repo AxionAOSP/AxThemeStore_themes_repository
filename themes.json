@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "lastUpdated": "2026-03-15T15:00:00Z",
+  "lastUpdated": "2026-04-06T12:33:14Z",
   "repository": {
     "name": "AxThemeStore Official Repository",
     "description": "Official theme repository for AxionAOSP Theme Store",
@@ -21,6 +21,27 @@
       "description": "WiFi signal indicator icons",
       "targetPackage": "android",
       "icon": "wifi"
+    },
+    {
+      "id": "back_gesture",
+      "name": "Back Gesture",
+      "description": "Back gesture indicator appearance",
+      "targetPackage": "com.android.systemui",
+      "icon": "swipe_left"
+    },
+    {
+      "id": "charging_animation",
+      "name": "Charging Animation",
+      "description": "Wired charging animation style",
+      "targetPackage": "com.android.systemui",
+      "icon": "bolt"
+    },
+    {
+      "id": "battery_style",
+      "name": "Battery Style",
+      "description": "Battery icon style themes",
+      "targetPackage": "com.android.systemui",
+      "icon": "battery_full"
     }
   ],
   "categories": [
@@ -41,6 +62,24 @@
       "name": "Icon Packs",
       "description": "System-wide icon style themes",
       "icon": "category"
+    },
+    {
+      "id": "charging_animation",
+      "name": "Charging Animation",
+      "description": "Wired charging animation styles",
+      "icon": "bolt"
+    },
+    {
+      "id": "back_gesture",
+      "name": "Back Gesture",
+      "description": "Back gesture indicator styles",
+      "icon": "swipe_left"
+    },
+    {
+      "id": "battery_style",
+      "name": "Battery Style",
+      "description": "Battery icon style themes",
+      "icon": "battery_full"
     }
   ],
   "themes": [
@@ -2104,6 +2143,241 @@
           ],
           "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/IconPackXperiaSystemUIOverlay.apk",
           "fileSize": 57943,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "back_gesture_dot_trail",
+      "name": "Dot Trail",
+      "description": "Dot trail back gesture indicator",
+      "author": "AxionOS",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "back_gesture",
+      "tags": [
+        "back_gesture",
+        "gesture",
+        "dot"
+      ],
+      "isUnified": true,
+      "supportsRegionSampling": true,
+      "overlays": [
+        {
+          "componentId": "back_gesture",
+          "packageName": "com.android.systemui.back_gesture.dot_trail",
+          "targets": [
+            "android.theme.customization.back_gesture"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BackGestureDotTrailOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "charging_anim_nothing",
+      "name": "Nothing OS",
+      "description": "Nothing Phone ripple charging animation with glare effect",
+      "author": "AxionOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "charging_animation",
+      "tags": [
+        "charging_animation",
+        "nothing",
+        "ripple"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "charging_animation",
+          "packageName": "com.android.systemui.charging_animation.nothing",
+          "targets": [
+            "android.theme.customization.charging_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/NothingChargingAnimationOverlay.apk",
+          "fileSize": 8542,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "charging_anim_moto",
+      "name": "Moto",
+      "description": "Motorola wired charging animation",
+      "author": "AxionOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "charging_animation",
+      "tags": [
+        "charging_animation",
+        "motorola",
+        "wire"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "charging_animation",
+          "packageName": "com.android.systemui.charging_animation.moto",
+          "targets": [
+            "android.theme.customization.charging_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/MotoChargingAnimationOverlay.apk",
+          "fileSize": 4840138,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_ios15",
+      "name": "iOS 15",
+      "description": "iOS 15-style horizontal battery with rounded fill",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "ios",
+        "horizontal"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.ios15",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BatteryStyleiOS15Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_ios16",
+      "name": "iOS 16",
+      "description": "iOS 16-style horizontal battery with inside percent",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "ios",
+        "horizontal",
+        "percent"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.ios16",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BatteryStyleiOS16Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_oneui7",
+      "name": "One UI 7",
+      "description": "Samsung One UI 7-style rounded pill battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "samsung",
+        "oneui",
+        "horizontal"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.oneui7",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BatteryStyleOneUI7Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_origami",
+      "name": "Origami",
+      "description": "Origami-folded capsule battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "origami",
+        "capsule"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.origami",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BatteryStyleOrigamiOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_smiley",
+      "name": "Smiley",
+      "description": "Cheerful smiley face battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "smiley",
+        "fun"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.smiley",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BatteryStyleSmileyOverlay.apk",
+          "fileSize": 12638,
           "enabled": true
         }
       ]
