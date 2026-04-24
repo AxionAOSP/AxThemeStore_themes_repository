@@ -49,6 +49,13 @@
       "description": "Fingerprint scanning icon",
       "targetPackage": "com.android.systemui",
       "icon": "fingerprint"
+    },
+    {
+      "id": "udfps_animation",
+      "name": "UDFPS Animation",
+      "description": "Fingerprint scanning animation",
+      "targetPackage": "com.android.systemui",
+      "icon": "fingerprint"
     }
   ],
   "categories": [
@@ -92,6 +99,12 @@
       "id": "android.theme.customization.udfps_icon",
       "name": "Fingerprint Icons",
       "description": "Custom fingerprint scanning icons",
+      "icon": "fingerprint"
+    },
+    {
+      "id": "android.theme.customization.udfps_animation",
+      "name": "Fingerprint Animations",
+      "description": "Custom fingerprint scanning animations",
       "icon": "fingerprint"
     }
   ],
