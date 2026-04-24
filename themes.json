@@ -1809,7 +1809,7 @@
       "id": "iconpack_nostalgic",
       "name": "Nostalgic",
       "description": "Nostalgic icon pack",
-      "author": "Radosław Błędowski",
+      "author": "Rados\u0142aw B\u0142\u0119dowski",
       "version": "1.0.0",
       "versionCode": 1,
       "minSdk": 35,
@@ -2378,6 +2378,1014 @@
           ],
           "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/BatteryStyleSmileyOverlay.apk",
           "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_aurora",
+      "name": "Aurora Animation",
+      "description": "Custom aurora fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.aurora",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeAurora.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_bloom",
+      "name": "Bloom Animation",
+      "description": "Custom bloom fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.bloom",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeBloom.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_cyber",
+      "name": "Cyber Animation",
+      "description": "Custom cyber fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.cyber",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeCyber.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_electronic",
+      "name": "Electronic Animation",
+      "description": "Custom electronic fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.electronic",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeElectronic.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_fireworks",
+      "name": "Fireworks Animation",
+      "description": "Custom fireworks fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.fireworks",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeFireworks.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_magic",
+      "name": "Magic Animation",
+      "description": "Custom magic fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.magic",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeMagic.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_pacman",
+      "name": "Pacman Animation",
+      "description": "Custom pacman fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.pacman",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemePacman.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_scan",
+      "name": "Scan Animation",
+      "description": "Custom scan fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.scan",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeScan.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_simple",
+      "name": "Simple Animation",
+      "description": "Custom simple fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.simple",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeSimple.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_smoke",
+      "name": "Smoke Animation",
+      "description": "Custom smoke fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.smoke",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeSmoke.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_aod_recognizing_anim",
+      "name": "Udfps Miui Aod Recognizing Anim Animation",
+      "description": "Custom udfps miui aod recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuiaodrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiAodRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_aurora_cas_recognizing_anim",
+      "name": "Udfps Miui Aurora Cas Recognizing Anim Animation",
+      "description": "Custom udfps miui aurora cas recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuiauroracasrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiAuroraCasRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_aurora_recognizing_anim",
+      "name": "Udfps Miui Aurora Recognizing Anim Animation",
+      "description": "Custom udfps miui aurora recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuiaurorarecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiAuroraRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_light_recognizing_anim",
+      "name": "Udfps Miui Light Recognizing Anim Animation",
+      "description": "Custom udfps miui light recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuilightrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiLightRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_normal_recognizing_anim",
+      "name": "Udfps Miui Normal Recognizing Anim Animation",
+      "description": "Custom udfps miui normal recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuinormalrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiNormalRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_pop_recognizing_anim",
+      "name": "Udfps Miui Pop Recognizing Anim Animation",
+      "description": "Custom udfps miui pop recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuipoprecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiPopRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_pulse_recognizing_anim",
+      "name": "Udfps Miui Pulse Recognizing Anim Animation",
+      "description": "Custom udfps miui pulse recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuipulserecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiPulseRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_pulse_recognizing_white_anim",
+      "name": "Udfps Miui Pulse Recognizing White Anim Animation",
+      "description": "Custom udfps miui pulse recognizing white anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuipulserecognizingwhiteanim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiPulseRecognizingWhiteAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_rhythm_recognizing_anim",
+      "name": "Udfps Miui Rhythm Recognizing Anim Animation",
+      "description": "Custom udfps miui rhythm recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuirhythmrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiRhythmRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_miui_star_cas_recognizing_anim",
+      "name": "Udfps Miui Star Cas Recognizing Anim Animation",
+      "description": "Custom udfps miui star cas recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsmiuistarcasrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsMiuiStarCasRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_op_cosmos_recognizing_anim",
+      "name": "Udfps Op Cosmos Recognizing Anim Animation",
+      "description": "Custom udfps op cosmos recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsopcosmosrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsOpCosmosRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_op_energy_recognizing_anim",
+      "name": "Udfps Op Energy Recognizing Anim Animation",
+      "description": "Custom udfps op energy recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsopenergyrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsOpEnergyRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_op_mclaren_recognizing_anim",
+      "name": "Udfps Op Mclaren Recognizing Anim Animation",
+      "description": "Custom udfps op mclaren recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsopmclarenrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsOpMclarenRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_op_ripple_recognizing_anim",
+      "name": "Udfps Op Ripple Recognizing Anim Animation",
+      "description": "Custom udfps op ripple recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsopripplerecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsOpRippleRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_op_scanning_recognizing_anim",
+      "name": "Udfps Op Scanning Recognizing Anim Animation",
+      "description": "Custom udfps op scanning recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsopscanningrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsOpScanningRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_op_stripe_recognizing_anim",
+      "name": "Udfps Op Stripe Recognizing Anim Animation",
+      "description": "Custom udfps op stripe recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsopstriperecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsOpStripeRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_op_wave_recognizing_anim",
+      "name": "Udfps Op Wave Recognizing Anim Animation",
+      "description": "Custom udfps op wave recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsopwaverecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsOpWaveRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_pureview_dna_recognizing_anim",
+      "name": "Udfps Pureview Dna Recognizing Anim Animation",
+      "description": "Custom udfps pureview dna recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpspureviewdnarecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsPureviewDnaRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_pureview_future_recognizing_anim",
+      "name": "Udfps Pureview Future Recognizing Anim Animation",
+      "description": "Custom udfps pureview future recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpspureviewfuturerecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsPureviewFutureRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_pureview_halo_ring_recognizing_anim",
+      "name": "Udfps Pureview Halo Ring Recognizing Anim Animation",
+      "description": "Custom udfps pureview halo ring recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpspureviewhaloringrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsPureviewHaloRingRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_pureview_molecular_recognizing_anim",
+      "name": "Udfps Pureview Molecular Recognizing Anim Animation",
+      "description": "Custom udfps pureview molecular recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpspureviewmolecularrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsPureviewMolecularRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_rog_fusion_recognizing_anim",
+      "name": "Udfps Rog Fusion Recognizing Anim Animation",
+      "description": "Custom udfps rog fusion recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsrogfusionrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsRogFusionRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_rog_pulsar_recognizing_anim",
+      "name": "Udfps Rog Pulsar Recognizing Anim Animation",
+      "description": "Custom udfps rog pulsar recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsrogpulsarrecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsRogPulsarRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_udfps_rog_supernova_recognizing_anim",
+      "name": "Udfps Rog Supernova Recognizing Anim Animation",
+      "description": "Custom udfps rog supernova recognizing anim fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.udfpsrogsupernovarecognizinganim",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeUdfpsRogSupernovaRecognizingAnim.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_warp",
+      "name": "Warp Animation",
+      "description": "Custom warp fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.warp",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeWarp.apk",
+          "fileSize": 50000,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_worm_hole",
+      "name": "Worm Hole Animation",
+      "description": "Custom worm hole fingerprint animation",
+      "author": "SagarMakhar",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.wormhole",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/UdfpsThemeWormHole.apk",
+          "fileSize": 50000,
           "enabled": true
         }
       ]
