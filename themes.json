@@ -2690,8 +2690,8 @@
     },
     {
       "id": "udfps_udfps_miui_aod_recognizing_anim",
-      "name": "Udfps Miui Aod Recognizing Anim Animation",
-      "description": "Custom udfps miui aod recognizing anim fingerprint animation",
+      "name": "Miui Aod Animation",
+      "description": "Custom miui aod fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2718,8 +2718,8 @@
     },
     {
       "id": "udfps_udfps_miui_aurora_cas_recognizing_anim",
-      "name": "Udfps Miui Aurora Cas Recognizing Anim Animation",
-      "description": "Custom udfps miui aurora cas recognizing anim fingerprint animation",
+      "name": "Miui Aurora Cas Animation",
+      "description": "Custom miui aurora cas fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2746,8 +2746,8 @@
     },
     {
       "id": "udfps_udfps_miui_aurora_recognizing_anim",
-      "name": "Udfps Miui Aurora Recognizing Anim Animation",
-      "description": "Custom udfps miui aurora recognizing anim fingerprint animation",
+      "name": "Miui Aurora Animation",
+      "description": "Custom miui aurora fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2774,8 +2774,8 @@
     },
     {
       "id": "udfps_udfps_miui_light_recognizing_anim",
-      "name": "Udfps Miui Light Recognizing Anim Animation",
-      "description": "Custom udfps miui light recognizing anim fingerprint animation",
+      "name": "Miui Light Animation",
+      "description": "Custom miui light fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2802,8 +2802,8 @@
     },
     {
       "id": "udfps_udfps_miui_normal_recognizing_anim",
-      "name": "Udfps Miui Normal Recognizing Anim Animation",
-      "description": "Custom udfps miui normal recognizing anim fingerprint animation",
+      "name": "Miui Normal Animation",
+      "description": "Custom miui normal fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2830,8 +2830,8 @@
     },
     {
       "id": "udfps_udfps_miui_pop_recognizing_anim",
-      "name": "Udfps Miui Pop Recognizing Anim Animation",
-      "description": "Custom udfps miui pop recognizing anim fingerprint animation",
+      "name": "Miui Pop Animation",
+      "description": "Custom miui pop fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2858,8 +2858,8 @@
     },
     {
       "id": "udfps_udfps_miui_pulse_recognizing_anim",
-      "name": "Udfps Miui Pulse Recognizing Anim Animation",
-      "description": "Custom udfps miui pulse recognizing anim fingerprint animation",
+      "name": "Miui Pulse Animation",
+      "description": "Custom miui pulse fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2886,8 +2886,8 @@
     },
     {
       "id": "udfps_udfps_miui_pulse_recognizing_white_anim",
-      "name": "Udfps Miui Pulse Recognizing White Anim Animation",
-      "description": "Custom udfps miui pulse recognizing white anim fingerprint animation",
+      "name": "Miui Pulse White Animation",
+      "description": "Custom miui pulse white fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2914,8 +2914,8 @@
     },
     {
       "id": "udfps_udfps_miui_rhythm_recognizing_anim",
-      "name": "Udfps Miui Rhythm Recognizing Anim Animation",
-      "description": "Custom udfps miui rhythm recognizing anim fingerprint animation",
+      "name": "Miui Rhythm Animation",
+      "description": "Custom miui rhythm fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2942,8 +2942,8 @@
     },
     {
       "id": "udfps_udfps_miui_star_cas_recognizing_anim",
-      "name": "Udfps Miui Star Cas Recognizing Anim Animation",
-      "description": "Custom udfps miui star cas recognizing anim fingerprint animation",
+      "name": "Miui Star Cas Animation",
+      "description": "Custom miui star cas fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2970,8 +2970,8 @@
     },
     {
       "id": "udfps_udfps_op_cosmos_recognizing_anim",
-      "name": "Udfps Op Cosmos Recognizing Anim Animation",
-      "description": "Custom udfps op cosmos recognizing anim fingerprint animation",
+      "name": "Op Cosmos Animation",
+      "description": "Custom op cosmos fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -2998,8 +2998,8 @@
     },
     {
       "id": "udfps_udfps_op_energy_recognizing_anim",
-      "name": "Udfps Op Energy Recognizing Anim Animation",
-      "description": "Custom udfps op energy recognizing anim fingerprint animation",
+      "name": "Op Energy Animation",
+      "description": "Custom op energy fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3026,8 +3026,8 @@
     },
     {
       "id": "udfps_udfps_op_mclaren_recognizing_anim",
-      "name": "Udfps Op Mclaren Recognizing Anim Animation",
-      "description": "Custom udfps op mclaren recognizing anim fingerprint animation",
+      "name": "Op Mclaren Animation",
+      "description": "Custom op mclaren fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3054,8 +3054,8 @@
     },
     {
       "id": "udfps_udfps_op_ripple_recognizing_anim",
-      "name": "Udfps Op Ripple Recognizing Anim Animation",
-      "description": "Custom udfps op ripple recognizing anim fingerprint animation",
+      "name": "Op Ripple Animation",
+      "description": "Custom op ripple fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3082,8 +3082,8 @@
     },
     {
       "id": "udfps_udfps_op_scanning_recognizing_anim",
-      "name": "Udfps Op Scanning Recognizing Anim Animation",
-      "description": "Custom udfps op scanning recognizing anim fingerprint animation",
+      "name": "Op Scanning Animation",
+      "description": "Custom op scanning fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3110,8 +3110,8 @@
     },
     {
       "id": "udfps_udfps_op_stripe_recognizing_anim",
-      "name": "Udfps Op Stripe Recognizing Anim Animation",
-      "description": "Custom udfps op stripe recognizing anim fingerprint animation",
+      "name": "Op Stripe Animation",
+      "description": "Custom op stripe fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3138,8 +3138,8 @@
     },
     {
       "id": "udfps_udfps_op_wave_recognizing_anim",
-      "name": "Udfps Op Wave Recognizing Anim Animation",
-      "description": "Custom udfps op wave recognizing anim fingerprint animation",
+      "name": "Op Wave Animation",
+      "description": "Custom op wave fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3166,8 +3166,8 @@
     },
     {
       "id": "udfps_udfps_pureview_dna_recognizing_anim",
-      "name": "Udfps Pureview Dna Recognizing Anim Animation",
-      "description": "Custom udfps pureview dna recognizing anim fingerprint animation",
+      "name": "Pureview Dna Animation",
+      "description": "Custom pureview dna fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3194,8 +3194,8 @@
     },
     {
       "id": "udfps_udfps_pureview_future_recognizing_anim",
-      "name": "Udfps Pureview Future Recognizing Anim Animation",
-      "description": "Custom udfps pureview future recognizing anim fingerprint animation",
+      "name": "Pureview Future Animation",
+      "description": "Custom pureview future fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3222,8 +3222,8 @@
     },
     {
       "id": "udfps_udfps_pureview_halo_ring_recognizing_anim",
-      "name": "Udfps Pureview Halo Ring Recognizing Anim Animation",
-      "description": "Custom udfps pureview halo ring recognizing anim fingerprint animation",
+      "name": "Pureview Halo Ring Animation",
+      "description": "Custom pureview halo ring fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3250,8 +3250,8 @@
     },
     {
       "id": "udfps_udfps_pureview_molecular_recognizing_anim",
-      "name": "Udfps Pureview Molecular Recognizing Anim Animation",
-      "description": "Custom udfps pureview molecular recognizing anim fingerprint animation",
+      "name": "Pureview Molecular Animation",
+      "description": "Custom pureview molecular fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3278,8 +3278,8 @@
     },
     {
       "id": "udfps_udfps_rog_fusion_recognizing_anim",
-      "name": "Udfps Rog Fusion Recognizing Anim Animation",
-      "description": "Custom udfps rog fusion recognizing anim fingerprint animation",
+      "name": "Rog Fusion Animation",
+      "description": "Custom rog fusion fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3306,8 +3306,8 @@
     },
     {
       "id": "udfps_udfps_rog_pulsar_recognizing_anim",
-      "name": "Udfps Rog Pulsar Recognizing Anim Animation",
-      "description": "Custom udfps rog pulsar recognizing anim fingerprint animation",
+      "name": "Rog Pulsar Animation",
+      "description": "Custom rog pulsar fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3334,8 +3334,8 @@
     },
     {
       "id": "udfps_udfps_rog_supernova_recognizing_anim",
-      "name": "Udfps Rog Supernova Recognizing Anim Animation",
-      "description": "Custom udfps rog supernova recognizing anim fingerprint animation",
+      "name": "Rog Supernova Animation",
+      "description": "Custom rog supernova fingerprint animation",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3418,8 +3418,8 @@
     },
     {
       "id": "udfps_icon_GI_ALbedo",
-      "name": "Gi Albedo Icon",
-      "description": "Custom GI ALbedo fingerprint icon",
+      "name": "Albedo",
+      "description": "Albedo fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3444,12 +3444,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Amber",
-      "name": "Gi Amber Icon",
-      "description": "Custom GI Amber fingerprint icon",
+      "name": "Amber",
+      "description": "Amber fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3474,12 +3475,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Ayaka",
-      "name": "Gi Ayaka Icon",
-      "description": "Custom GI Ayaka fingerprint icon",
+      "name": "Ayaka",
+      "description": "Ayaka fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3504,12 +3506,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Barbara",
-      "name": "Gi Barbara Icon",
-      "description": "Custom GI Barbara fingerprint icon",
+      "name": "Barbara",
+      "description": "Barbara fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3534,12 +3537,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Bennett",
-      "name": "Gi Bennett Icon",
-      "description": "Custom GI Bennett fingerprint icon",
+      "name": "Bennett",
+      "description": "Bennett fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3564,12 +3568,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Collei",
-      "name": "Gi Collei Icon",
-      "description": "Custom GI Collei fingerprint icon",
+      "name": "Collei",
+      "description": "Collei fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3594,12 +3599,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Cyno",
-      "name": "Gi Cyno Icon",
-      "description": "Custom GI Cyno fingerprint icon",
+      "name": "Cyno",
+      "description": "Cyno fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3624,12 +3630,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Diluc",
-      "name": "Gi Diluc Icon",
-      "description": "Custom GI Diluc fingerprint icon",
+      "name": "Diluc",
+      "description": "Diluc fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3654,12 +3661,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Eula",
-      "name": "Gi Eula Icon",
-      "description": "Custom GI Eula fingerprint icon",
+      "name": "Eula",
+      "description": "Eula fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3684,12 +3692,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Fischl",
-      "name": "Gi Fischl Icon",
-      "description": "Custom GI Fischl fingerprint icon",
+      "name": "Fischl",
+      "description": "Fischl fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3714,12 +3723,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Ganyu",
-      "name": "Gi Ganyu Icon",
-      "description": "Custom GI Ganyu fingerprint icon",
+      "name": "Ganyu",
+      "description": "Ganyu fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3744,12 +3754,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Jean",
-      "name": "Gi Jean Icon",
-      "description": "Custom GI Jean fingerprint icon",
+      "name": "Jean",
+      "description": "Jean fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3774,12 +3785,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Keqing",
-      "name": "Gi Keqing Icon",
-      "description": "Custom GI Keqing fingerprint icon",
+      "name": "Keqing",
+      "description": "Keqing fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3804,12 +3816,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Klee",
-      "name": "Gi Klee Icon",
-      "description": "Custom GI Klee fingerprint icon",
+      "name": "Klee",
+      "description": "Klee fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3834,12 +3847,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Mona",
-      "name": "Gi Mona Icon",
-      "description": "Custom GI Mona fingerprint icon",
+      "name": "Mona",
+      "description": "Mona fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3864,12 +3878,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Noel",
-      "name": "Gi Noel Icon",
-      "description": "Custom GI Noel fingerprint icon",
+      "name": "Noel",
+      "description": "Noel fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3894,12 +3909,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Sucrose",
-      "name": "Gi Sucrose Icon",
-      "description": "Custom GI Sucrose fingerprint icon",
+      "name": "Sucrose",
+      "description": "Sucrose fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3924,12 +3940,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Xiao",
-      "name": "Gi Xiao Icon",
-      "description": "Custom GI Xiao fingerprint icon",
+      "name": "Xiao",
+      "description": "Xiao fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3954,12 +3971,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_GI_Yoimiya",
-      "name": "Gi Yoimiya Icon",
-      "description": "Custom GI Yoimiya fingerprint icon",
+      "name": "Yoimiya",
+      "description": "Yoimiya fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -3984,12 +4002,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Genshin Impact"
     },
     {
       "id": "udfps_icon_ThousandSunny",
-      "name": "Thousandsunny Icon",
-      "description": "Custom ThousandSunny fingerprint icon",
+      "name": "Thousand Sunny",
+      "description": "Thousand Sunny fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4014,12 +4033,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_luffy1",
-      "name": "Luffy1 Icon",
-      "description": "Custom luffy1 fingerprint icon",
+      "name": "Luffy Classic",
+      "description": "Luffy Classic fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4044,12 +4064,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_luffy2",
-      "name": "Luffy2 Icon",
-      "description": "Custom luffy2 fingerprint icon",
+      "name": "Luffy Smile",
+      "description": "Luffy Smile fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4074,12 +4095,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_naruto_sasuke",
-      "name": "Naruto Sasuke Icon",
-      "description": "Custom naruto sasuke fingerprint icon",
+      "name": "Sasuke",
+      "description": "Sasuke fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4104,12 +4126,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Naruto"
     },
     {
       "id": "udfps_icon_naruto_sharingan",
-      "name": "Naruto Sharingan Icon",
-      "description": "Custom naruto sharingan fingerprint icon",
+      "name": "Sharingan",
+      "description": "Sharingan fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4134,12 +4157,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Naruto"
     },
     {
       "id": "udfps_icon_op_pirates_1",
-      "name": "Op Pirates 1 Icon",
-      "description": "Custom op pirates 1 fingerprint icon",
+      "name": "Luffy",
+      "description": "Luffy fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4164,12 +4188,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_10",
-      "name": "Op Pirates 10 Icon",
-      "description": "Custom op pirates 10 fingerprint icon",
+      "name": "Usopp",
+      "description": "Usopp fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4194,12 +4219,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_11",
-      "name": "Op Pirates 11 Icon",
-      "description": "Custom op pirates 11 fingerprint icon",
+      "name": "Sanji",
+      "description": "Sanji fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4224,12 +4250,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_12",
-      "name": "Op Pirates 12 Icon",
-      "description": "Custom op pirates 12 fingerprint icon",
+      "name": "Chopper",
+      "description": "Chopper fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4254,12 +4281,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_13",
-      "name": "Op Pirates 13 Icon",
-      "description": "Custom op pirates 13 fingerprint icon",
+      "name": "Nico Robin",
+      "description": "Nico Robin fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4284,12 +4312,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_14",
-      "name": "Op Pirates 14 Icon",
-      "description": "Custom op pirates 14 fingerprint icon",
+      "name": "Franky",
+      "description": "Franky fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4314,12 +4343,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_15",
-      "name": "Op Pirates 15 Icon",
-      "description": "Custom op pirates 15 fingerprint icon",
+      "name": "Brook",
+      "description": "Brook fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4344,12 +4374,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_16",
-      "name": "Op Pirates 16 Icon",
-      "description": "Custom op pirates 16 fingerprint icon",
+      "name": "Jinbe",
+      "description": "Jinbe fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4374,12 +4405,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_2",
-      "name": "Op Pirates 2 Icon",
-      "description": "Custom op pirates 2 fingerprint icon",
+      "name": "Boa Hancock",
+      "description": "Boa Hancock fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4404,12 +4436,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_3",
-      "name": "Op Pirates 3 Icon",
-      "description": "Custom op pirates 3 fingerprint icon",
+      "name": "Luffy Timeskip",
+      "description": "Luffy Timeskip fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4434,12 +4467,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_4",
-      "name": "Op Pirates 4 Icon",
-      "description": "Custom op pirates 4 fingerprint icon",
+      "name": "Luffy Wano",
+      "description": "Luffy Wano fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4464,12 +4498,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_5",
-      "name": "Op Pirates 5 Icon",
-      "description": "Custom op pirates 5 fingerprint icon",
+      "name": "Luffy Gear 5",
+      "description": "Luffy Gear 5 fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4494,12 +4529,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_6",
-      "name": "Op Pirates 6 Icon",
-      "description": "Custom op pirates 6 fingerprint icon",
+      "name": "Luffy Gear 5 Flame",
+      "description": "Luffy Gear 5 Flame fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4524,12 +4560,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_7",
-      "name": "Op Pirates 7 Icon",
-      "description": "Custom op pirates 7 fingerprint icon",
+      "name": "Nami Wano",
+      "description": "Nami Wano fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4554,12 +4591,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_8",
-      "name": "Op Pirates 8 Icon",
-      "description": "Custom op pirates 8 fingerprint icon",
+      "name": "Zoro",
+      "description": "Zoro fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4584,12 +4622,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_op_pirates_9",
-      "name": "Op Pirates 9 Icon",
-      "description": "Custom op pirates 9 fingerprint icon",
+      "name": "Nami",
+      "description": "Nami fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4614,12 +4653,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "One Piece"
     },
     {
       "id": "udfps_icon_udfps_icon_arc_reactor",
-      "name": "Udfps Icon Arc Reactor Icon",
-      "description": "Custom udfps icon arc reactor fingerprint icon",
+      "name": "Iron Man",
+      "description": "Iron Man fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4644,12 +4684,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Heroes"
     },
     {
       "id": "udfps_icon_udfps_icon_batman",
-      "name": "Udfps Icon Batman Icon",
-      "description": "Custom udfps icon batman fingerprint icon",
+      "name": "Batman",
+      "description": "Batman fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4674,12 +4715,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Heroes"
     },
     {
       "id": "udfps_icon_udfps_icon_batman_flat",
-      "name": "Udfps Icon Batman Flat Icon",
-      "description": "Custom udfps icon batman flat fingerprint icon",
+      "name": "Batman Flat",
+      "description": "Batman Flat fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4704,12 +4746,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Heroes"
     },
     {
       "id": "udfps_icon_udfps_icon_cpt_america_flat",
-      "name": "Udfps Icon Cpt America Flat Icon",
-      "description": "Custom udfps icon cpt america flat fingerprint icon",
+      "name": "Captain America",
+      "description": "Captain America fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4734,12 +4777,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Heroes"
     },
     {
       "id": "udfps_icon_udfps_icon_cpt_america_flat_gray",
-      "name": "Udfps Icon Cpt America Flat Gray Icon",
-      "description": "Custom udfps icon cpt america flat gray fingerprint icon",
+      "name": "Captain America Gray",
+      "description": "Captain America Gray fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -4764,7 +4808,8 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Heroes"
     },
     {
       "id": "udfps_icon_udfps_icon_default_0",
@@ -5458,8 +5503,8 @@
     },
     {
       "id": "udfps_icon_udfps_icon_op",
-      "name": "Udfps Icon Op Icon",
-      "description": "Custom udfps icon op fingerprint icon",
+      "name": "OnePlus",
+      "description": "OnePlus fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -5484,12 +5529,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "OnePlus"
     },
     {
       "id": "udfps_icon_udfps_icon_op_2077",
-      "name": "Udfps Icon Op 2077 Icon",
-      "description": "Custom udfps icon op 2077 fingerprint icon",
+      "name": "OnePlus 2077",
+      "description": "OnePlus 2077 fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -5514,12 +5560,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "OnePlus"
     },
     {
       "id": "udfps_icon_udfps_icon_op_rainbow",
-      "name": "Udfps Icon Op Rainbow Icon",
-      "description": "Custom udfps icon op rainbow fingerprint icon",
+      "name": "OnePlus Rainbow",
+      "description": "OnePlus Rainbow fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -5544,7 +5591,8 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "OnePlus"
     },
     {
       "id": "udfps_icon_udfps_icon_pacman",
@@ -5578,8 +5626,8 @@
     },
     {
       "id": "udfps_icon_udfps_icon_pokeball",
-      "name": "Udfps Icon Pokeball Icon",
-      "description": "Custom udfps icon pokeball fingerprint icon",
+      "name": "Pokeball",
+      "description": "Pokeball fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -5604,12 +5652,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Pokemon"
     },
     {
       "id": "udfps_icon_udfps_icon_pokeball_1",
-      "name": "Udfps Icon Pokeball 1 Icon",
-      "description": "Custom udfps icon pokeball 1 fingerprint icon",
+      "name": "Pokeball 1",
+      "description": "Pokeball 1 fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -5634,12 +5683,13 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Pokemon"
     },
     {
       "id": "udfps_icon_udfps_icon_pokeball_2",
-      "name": "Udfps Icon Pokeball 2 Icon",
-      "description": "Custom udfps icon pokeball 2 fingerprint icon",
+      "name": "Pokeball 2",
+      "description": "Pokeball 2 fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -5664,7 +5714,8 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Pokemon"
     },
     {
       "id": "udfps_icon_udfps_icon_rainbow_horn",
@@ -5818,8 +5869,8 @@
     },
     {
       "id": "udfps_icon_udfps_icon_spiderman",
-      "name": "Udfps Icon Spiderman Icon",
-      "description": "Custom udfps icon spiderman fingerprint icon",
+      "name": "Spider-Man",
+      "description": "Spider-Man fingerprint icon",
       "author": "SagarMakhar",
       "version": "1.0.0",
       "versionCode": 1,
@@ -5844,7 +5895,8 @@
           "fileSize": 30000,
           "enabled": true
         }
-      ]
+      ],
+      "pack": "Heroes"
     },
     {
       "id": "udfps_icon_udfps_icon_spiral_blue",
