@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "lastUpdated": "2026-04-06T12:33:14Z",
+  "lastUpdated": "2026-05-04T19:29:00Z",
   "repository": {
     "name": "AxThemeStore Official Repository",
     "description": "Official theme repository for AxionAOSP Theme Store",
@@ -56,6 +56,13 @@
       "description": "Fingerprint scanning animation",
       "targetPackage": "com.android.systemui",
       "icon": "fingerprint"
+    },
+    {
+      "id": "qs_waveform",
+      "name": "Media Waveform",
+      "description": "QS media player waveform style",
+      "targetPackage": "com.android.systemui",
+      "icon": "waves"
     }
   ],
   "categories": [
@@ -76,6 +83,12 @@
       "name": "Icon Packs",
       "description": "System-wide icon style themes",
       "icon": "category"
+    },
+    {
+      "id": "android.theme.customization.qs_waveform",
+      "name": "Media Waveforms",
+      "description": "Custom QS media player waveform styles",
+      "icon": "waves"
     },
     {
       "id": "charging_animation",
@@ -109,6 +122,75 @@
     }
   ],
   "themes": [
+    {
+      "id": "axion_waveform",
+      "name": "Axion Waveform",
+      "description": "Premium smooth cubic-spline waveform with adaptive scaling",
+      "author": "AxionOS",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [
+        "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/previews/qs_waveform/qs_waveform_axion.webp"
+      ],
+      "category": "android.theme.customization.qs_waveform",
+      "tags": ["media", "waveform", "axion", "premium"],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "qs_waveform",
+          "packageName": "android.theme.customization.qs_waveform.axion",
+          "targets": ["systemui"],
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wave_waveform",
+      "name": "Ocean Wave",
+      "description": "Premium multi-layered sea ripples with enhanced amplitude",
+      "author": "AxionOS",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [
+        "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/previews/qs_waveform/qs_waveform_wave.webp"
+      ],
+      "category": "android.theme.customization.qs_waveform",
+      "tags": ["media", "waveform", "wave", "smooth"],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "qs_waveform",
+          "packageName": "android.theme.customization.qs_waveform.wave",
+          "targets": ["systemui"],
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "pulse_waveform",
+      "name": "Pulse",
+      "description": "Rhythmic EKG heartbeat-style waveform",
+      "author": "AxionOS",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [
+        "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/previews/qs_waveform/qs_waveform_pulse.webp"
+      ],
+      "category": "android.theme.customization.qs_waveform",
+      "tags": ["media", "waveform", "pulse", "heartbeat"],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "qs_waveform",
+          "packageName": "android.theme.customization.qs_waveform.pulse",
+          "targets": ["systemui"],
+          "enabled": true
+        }
+      ]
+    },
     {
       "id": "aquarium_signal",
       "name": "Aquarium Signal",
