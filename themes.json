@@ -6418,6 +6418,37 @@
           "enabled": true
         }
       ]
+    },
+    {
+      "id": "udfps_icon_oneplus_glow",
+      "name": "OnePlus Glow",
+      "description": "OnePlus Glow fingerprint icon",
+      "author": "Ghosuto",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [
+        "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/previews/udfps_icons/oneplus_glow.png"
+      ],
+      "category": "android.theme.customization.udfps_icon",
+      "tags": [
+        "udfps",
+        "icon"
+      ],
+      "isUnified": false,
+      "pack": "OnePlus",
+      "overlays": [
+        {
+          "componentId": "udfps_icon",
+          "packageName": "android.theme.customization.udfps_icon.oneplus_glow",
+          "targets": [
+            "udfps_icon"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/udfps_icon/UdfpsIconThemeOneplusGlow.apk",
+          "fileSize": 24995,
+          "enabled": true
+        }
+      ]
     }
   ]
 }
