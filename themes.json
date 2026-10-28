@@ -3518,6 +3518,62 @@
       ]
     },
     {
+      "id": "udfps_water_ripple",
+      "name": "Water Ripple Animation",
+      "description": "ColorOS 3D watery fluid refraction fingerprint animation",
+      "author": "Saikrishna1504",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.waterripple",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/udfps_animation/UdfpsThemeWaterRipple.apk",
+          "fileSize": 736301,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "udfps_prism_shockwave",
+      "name": "Prism Shockwave Animation",
+      "description": "3D chromatic prism shockwave & gravitational lens AGSL fingerprint animation",
+      "author": "Saikrishna1504",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "android.theme.customization.udfps_animation",
+      "tags": [
+        "udfps",
+        "animation"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "udfps_animation",
+          "packageName": "android.theme.customization.udfps_animation.shaderprism",
+          "targets": [
+            "udfps_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/udfps_animation/UdfpsThemePrismShockwave.apk",
+          "fileSize": 1367337,
+          "enabled": true
+        }
+      ]
+    },
+    {
       "id": "udfps_icon_GI_ALbedo",
       "name": "Albedo",
       "description": "Albedo fingerprint icon",
