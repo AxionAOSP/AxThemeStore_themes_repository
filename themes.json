@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "lastUpdated": "2026-05-05T17:12:05Z",
+  "lastUpdated": "2026-11-01T12:15:00Z",
   "repository": {
     "name": "AxThemeStore Official Repository",
     "description": "Official theme repository for AxionAOSP Theme Store",
@@ -2358,6 +2358,37 @@
           ],
           "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/charging_animation/MotoChargingAnimationOverlay.apk",
           "fileSize": 4840138,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "charging_anim_ember",
+      "name": "Ember",
+      "description": "Warm tick-dial charging animation: one tick per percent heating from ember to gold, with embers drawn in from the port",
+      "author": "kelexine",
+      "version": "1.3.0",
+      "versionCode": 4,
+      "minSdk": 36,
+      "previewImages": [
+        "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/previews/charging_animation/ember.webp"
+      ],
+      "category": "charging_animation",
+      "tags": [
+        "charging_animation",
+        "dial",
+        "ember"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "charging_animation",
+          "packageName": "com.android.systemui.charging_animation.ember",
+          "targets": [
+            "android.theme.customization.charging_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/AxionAOSP/AxThemeStore_themes_repository/lineage-23.2/apks/charging_animation/EmberChargingAnimationOverlay.apk",
+          "fileSize": 8733032,
           "enabled": true
         }
       ]
